@@ -27,3 +27,6 @@ Random Forest Classifier
 - NumPy
 - Scikit-learn
 - Matplotlib
+
+##dataset used
+- credit risk dataset
